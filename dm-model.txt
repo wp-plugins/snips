@@ -1,0 +1,8 @@
+<span class="vid">
+	<object width="520" height="411">
+		<param name="movie" value="http://www.dailymotion.com/swf/#1#&v3=1&related=1"></param>
+		<param name="allowFullScreen" value="true"></param>
+		<param name="allowScriptAccess" value="always"></param>
+		<embed src="http://www.dailymotion.com/swf/#1#&v3=1&related=1" type="application/x-shockwave-flash" width="520" height="411" allowFullScreen="true" allowScriptAccess="always"></embed>
+	</object>
+</span>

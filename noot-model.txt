@@ -1,0 +1,9 @@
+<span class="vid">
+	<object width="#2#" height="#3#">
+		<param name="movie" value="http://www.be-noot.com/export-a#1#"></param>
+		<embed src="http://www.be-noot.com/export-a#1#" type="application/x-shockwave-flash" width="#2#" height="#3#"></embed>
+	</object>
+</span>
+---
+2=100%
+3=500
