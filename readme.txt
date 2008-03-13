@@ -3,6 +3,10 @@ Author: Quentin T
 Plugin link: http://toki-woki.net/blog/
 Tags: snippet, replace
 Version: 0.2
+Requires at least: 2.0
+Tested up to: 2.3.3
+Stable tag: trunk
+Contributors: quentin.t
 
 Easy snippet plugin for Wordpress
 
