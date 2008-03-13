@@ -1,6 +1,6 @@
 === Snips ===
 Author: Quentin T
-Plugin link: http://toki-woki.net/blog/
+Plugin link: http://toki-woki.net/blog/?p=67
 Tags: snippet, replace
 Version: 0.2
 Requires at least: 2.0
