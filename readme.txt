@@ -12,21 +12,16 @@ Easy snippet/Shortcode editor plugin for Wordpress
 
 == Description ==
 
-Allows to define snippets for easy replacement.
+Allows to define shortcodes for easy replacement.
 Handy for recurrent copy/paste's from sites like YouTube or DailyMotion... But not only. You decide!
 Also allows you not to write un-valid tags that would be stripped out by Wordpress (<object>s for example)
 
-Here is the syntax to use :
+The syntaxt is Shortcodes' one, but for legacy reasons you can use this syntax :
 [key:parameter1,parameter2,parameter3...]
-
-1. The 'key' has to correspond to a file called 'key-model.txt' stored in `/wp-content/plugins/snips/`
-2. This file would contain a template (see 'yt-model.txt' for a YouTube example)
-3. This template can contain variables (in the form #index#) that will be replaced either by values passed as parameters (see the syntax), or by default values stored in the model text file.
-4. 
 
 == Installation ==
 
 1. Upload `snips` folder and its content to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Use the syntax described above...
+3. Go to Settings/Snips to create/edit shortcodes and use them in your posts
 4. Enjoy!
