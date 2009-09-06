@@ -1,6 +1,6 @@
 === Snips ===
 Author: Quentin T
-Plugin link: http://toki-woki.net/blog/
+Plugin link: http://toki-woki.net/blog/?p=1073
 Tags: snippet, replace, shortcode
 Version: 2.0
 Requires at least: 2.8
