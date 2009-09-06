@@ -1,14 +1,14 @@
 === Snips ===
 Author: Quentin T
 Plugin link: http://toki-woki.net/blog/
-Tags: snippet, replace
+Tags: snippet, replace, shortcode
 Version: 2.0
 Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: trunk
 Contributors: quentin.t
 
-Easy snippet plugin for Wordpress
+Easy snippet/Shortcode editor plugin for Wordpress
 
 == Description ==
 
