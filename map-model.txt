@@ -1,0 +1,5 @@
+<iframe width="#4#" height="#5#" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"
+	src="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=#1#,#2#,#3#&output=embed"></iframe>
+---
+4=560
+5=560
