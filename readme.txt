@@ -14,7 +14,7 @@ Easy snippet/Shortcode editor plugin for Wordpress
 
 Allows to define shortcodes for easy replacement.
 Handy for recurrent copy/paste's from sites like YouTube or DailyMotion... But not only. You decide!
-Also allows you not to write un-valid tags that would be stripped out by Wordpress (<object>s for example)
+Also allows you not to write un-valid tags that would be stripped out by Wordpress (`<object>`s for example)
 
 The syntaxt is Shortcodes' one, but for legacy reasons you can use this syntax :
 [key:parameter1,parameter2,parameter3...]
