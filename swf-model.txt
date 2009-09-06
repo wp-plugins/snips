@@ -1,0 +1,9 @@
+<span class="vid">
+	<object width="#2#" height="#3#">
+		<param name="movie" value="#up#/swf/#1#.swf"></param>
+		<embed src="#up#/swf/#1#.swf" type="application/x-shockwave-flash" width="#2#" height="#3#"></embed>
+	</object>
+</span>
+---
+2=100%
+3=300

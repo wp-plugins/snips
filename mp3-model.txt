@@ -1,0 +1,9 @@
+<span class="vid">
+	<object width="100%" height="140">
+		<param name="movie" value="#up#/mp3/twPlayer.swf?f=#up#/mp3/#1#.mp3"></param>
+		<param name="wmode" value="transparent"></param>
+		<param name="FlashVars" value="f=#up#/mp3/#1#.mp3"></param>
+		<embed src="#up#/mp3/twPlayer.swf" type="application/x-shockwave-flash" wmode="transparent" width="100%" height="140" FlashVars="f=#up#/mp3/#1#.mp3"></embed>
+		<noembed><a href="#up#/mp3/#1#.mp3">#1#</a></noembed>
+	</object>
+</span>
